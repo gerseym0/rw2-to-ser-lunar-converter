@@ -1,4 +1,3 @@
-Markdown
 # RW2 to SER Converter
 
 A Python script designed to convert Panasonic Lumix raw image sequences (`.RW2`) into a single `.SER` video file format. This tool is specifically built for astrophotographers who shoot lunar or planetary sequences in burst mode and need to process them in stacking software like AutoStakkert!3 (AS!3).
